@@ -19,6 +19,9 @@ Follow paths in a maze and pick letters.
 The text is in obscure Finnish using lots of foreing accented Latin characters.
 Hippi-Tiiceli is a character from my comic from the same time.
 
+I had just discovered BASIC programming from Petteri Järvinen's book "Mikrotietokoneet"
+(WSOY, 1986), because (a) we had a computer, and (b) I happened to read books.
+
 ## Game story (in Finnish)
 
 ```
