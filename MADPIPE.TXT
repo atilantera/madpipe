@@ -1,0 +1,4 @@
+Hippi-Tiicelin Mad Pipe Adventure
+
+K‰ynnist‰ pikakuvakkeesta tai MADPIPE.BAT:ista.
+QBasicista p‰‰see pois painamalla Alt+F ja sitten Alt+X.
